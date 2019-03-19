@@ -4,7 +4,7 @@ public class Calculator {
 	 	* Addition of 2 numbers
 	 	* @param a
 	 	* @param b
-	 	* return integer addition of 2 numbers
+	 	* @return integer addition of 2 numbers
 	 */
 	int add(int a,int b) {
 		return a+b;
@@ -14,7 +14,7 @@ public class Calculator {
 	 	* Multiplication of 2 numbers
 	 	* @param a
 	 	* @param b
-	 	* return integer multiplication of 2 numbers
+	 	* @return integer multiplication of 2 numbers
 	 */
 	
 	int multiply(int a, int b) {
@@ -25,7 +25,7 @@ public class Calculator {
 	 	* Division of 2 numbers
 	 	* @param a
 	 	* @param b
-	 	* return integer division of 2 numbers
+	 	* @return integer division of 2 numbers
 	 */
 	
 	int divide(int a, int b) {
