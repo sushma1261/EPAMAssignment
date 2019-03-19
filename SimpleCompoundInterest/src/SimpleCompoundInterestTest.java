@@ -14,8 +14,8 @@ class SimpleCompoundInterestTest {
 	@Test
 	void compoundInterestTest() {
 		SimpleCompoundInterest sci = new SimpleCompoundInterest();
-		assertEquals(225 ,sci.CompoundInterest(5000, 1.5f, 3));
-		assertEquals(45 ,sci.CompoundInterest(4500, 0.5f, 3));
+		assertEquals(5,228.39 ,sci.CompoundInterest(5000, 1.5f, 3));
+		assertEquals(4,567.84 ,sci.CompoundInterest(4500, 0.5f, 3));
 	}
 	
 
